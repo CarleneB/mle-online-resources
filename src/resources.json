@@ -68,20 +68,6 @@
     ]
   },
   {
-    "featured": true,
-    "title": "Start to finish: Statistics",
-    "description": "Do you need to analyse a set of data and produce some statistics? You do not need to be an expert to produce a statistical report. These resources will give you a basic introduction to statistics and introduce you to producing reports in SPSS.",
-    "duration": "",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/statistics/",
-    "tags": [
-      "organising",
-      "research skills",
-      "stats and data",
-      "assignments"
-    ]
-  },
-  {
     "featured": false,
     "title": "Adding up: describing data and choosing a statistical test",
     "description": "This resource will explore the methods and descriptives you can use to describe your data. It will also show you how to select appropriate statistical tests and find them in SPSS.",
