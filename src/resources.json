@@ -69,6 +69,22 @@
   },
     {
     "featured": false,
+    "title": "Original thinking allowed: avoiding plagiarism",
+    "description": "This resource explores some of the issues surrounding academic integrity, providing you with techniques to help you to avoid plagiarism when referring to the work of others and to add your own voice into your work.",
+    "duration": "20 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/avoiding-plagiarism",
+    "tags": [
+      "planning",
+      "referencing",
+      "assignments",
+      "study strategies",
+      "writing"
+    ]
+  },
+  
+  {
+    "featured": false,
     "title": "Being critical: thinking, reading and writing critically",
     "description": "This resource explores how to be critical, highlighting practical strategies you can use in your academic reading and writing that will enable you to demonstrate critical analysis in your assignments.",
     "duration": "15 minutes",
@@ -394,22 +410,7 @@
       "wellbeing"
     ]
   },
-  {
-    "featured": false,
-    "title": "Original thinking allowed: avoiding plagiarism",
-    "description": "This resource explores some of the issues surrounding academic integrity, providing you with techniques to help you to avoid plagiarism when referring to the work of others and to add your own voice into your work.",
-    "duration": "20 minutes",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/avoiding-plagiarism",
-    "tags": [
-      "planning",
-      "referencing",
-      "assignments",
-      "study strategies",
-      "writing"
-    ]
-  },
-  {
+    {
     "featured": false,
     "title": "Planning ahead: making your search work",
     "description": "This resource explores the process of planning a search, highlighting some techniques you can use to refine your search to help you to get a manageable number of high-quality, relevant results to use in your work.",
